@@ -2,8 +2,16 @@
 
 Some notebook covering various topics.
 
-- [Find connections within your field of research papers using Mendeley](biblio_connections/digger.ipynb)
-- [Interactive 3D brownian motion with Vispy](vispy_brownian/vispy_brownian.ipynb)
+## Analysis
+
 - [Whats is the image moment ? (or how to fit an ellipse)](fit_ellipse/fit_ellipse.ipynb)
 - [Classify particle motion from MSD anaysis and bayesian inference (in construction)](msd_bayes/msd_bayes.ipynb)
 
+## Bibliography
+
+- [Find connections between authors within your field of research papers using Mendeley](biblio_connections/digger.ipynb)
+- [# Find articles with PubPeer comments into your Mendeley database ](mendeley_pubpeer/digger.ipynb)
+
+## Visualization
+
+- [Interactive 3D brownian motion with Vispy](vispy_brownian/vispy_brownian.ipynb)
