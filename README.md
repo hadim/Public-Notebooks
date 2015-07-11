@@ -10,7 +10,7 @@ Some notebook covering various topics.
 ## Bibliography
 
 - [Find connections between authors within your field of research papers using Mendeley](biblio_connections/digger.ipynb)
-- [# Find articles with PubPeer comments into your Mendeley database ](mendeley_pubpeer/digger.ipynb)
+- [Find articles with PubPeer comments into your Mendeley database ](mendeley_pubpeer/digger.ipynb)
 
 ## Visualization
 
