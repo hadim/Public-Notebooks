@@ -6,6 +6,7 @@ Some notebook covering various topics.
 
 - [Whats is the image moment ? (or how to fit an ellipse)](fit_ellipse/fit_ellipse.ipynb)
 - [Classify particle motion from MSD anaysis and bayesian inference (in construction)](msd_bayes/msd_bayes.ipynb)
+- [Analyze particle motion with MSD](msd_analyzer/msd_analyzer.ipynb)
 
 ## Bibliography
 
