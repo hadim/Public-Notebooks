@@ -8,6 +8,10 @@ Some notebook covering various topics.
 - [Classify particle motion from MSD anaysis and bayesian inference (in construction)](msd_bayes/msd_bayes.ipynb)
 - [Analyze particle motion with MSD](msd_analyzer/msd_analyzer.ipynb)
 
+## Algorithm implementations
+
+- [Compute MSD in Python quickly with FFT](quick_msd_calculations/quick_msd_calculations.ipynb)
+
 ## Bibliography
 
 - [Find connections between authors within your field of research papers using Mendeley](biblio_connections/digger.ipynb)
