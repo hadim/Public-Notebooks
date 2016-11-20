@@ -27,7 +27,6 @@ Some notebook covering various topics. Some of them are and will still be in con
 
 ### Theory
 
-- [Interactive 3D brownian motion with Vispy](Visualization/Vispy Brownian/notebook.ipynb)
 - [Explore microfluidic flow rate and pressure according to a defined geometry.](Theory/Microfluidic Flow Rate/notebook.ipynb)
 
 ## Authors
