@@ -1,11 +1,11 @@
-# My public notebooks
+# Public notebooks
 
-Some notebook covering various topics.
+Some notebook covering various topics. Some of them are and will still be for a while in construction.
 
 ## Analysis
 
 - [Whats is the image moment ? (or how to fit an ellipse)](fit_ellipse/fit_ellipse.ipynb)
-- [Classify particle motion from MSD anaysis and bayesian inference (in construction)](msd_bayes/msd_bayes.ipynb)
+- [Classify particle motion from MSD anaysis and bayesian inference](msd_bayes/msd_bayes.ipynb)
 - [Analyze particle motion with MSD](msd_analyzer/msd_analyzer.ipynb)
 
 ## Algorithm implementations
@@ -15,7 +15,7 @@ Some notebook covering various topics.
 ## Bibliography
 
 - [Find connections between authors within your field of research papers using Mendeley](biblio_connections/digger.ipynb)
-- [Find articles with PubPeer comments into your Mendeley database ](mendeley_pubpeer/mendeley_pubpeer.ipynb)
+- [Find articles with PubPeer comments into Mendeley](mendeley_pubpeer/mendeley_pubpeer.ipynb)
 
 ## Visualization
 
